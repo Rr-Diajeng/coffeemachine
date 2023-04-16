@@ -1,0 +1,24 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "my first javascript project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rr-Diajeng/coffeemachine.git"
+  },
+  "keywords": [
+    "coffeemachine"
+  ],
+  "author": "rr.diajeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rr-Diajeng/coffeemachine/issues"
+  },
+  "homepage": "https://github.com/Rr-Diajeng/coffeemachine#readme"
+}
